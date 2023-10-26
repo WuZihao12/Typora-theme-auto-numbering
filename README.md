@@ -11,7 +11,7 @@ Able to realize automatic numbering of Typora hierarchical titles, outlines and 
 ![image](https://github.com/WuZihao12/Typora-theme-auto-numbering/assets/76829676/017286b4-93d4-4695-a93f-6c0d679ccbec)
 ![image](https://github.com/WuZihao12/Typora-theme-auto-numbering/assets/76829676/79ceb2ff-14c2-4aa0-b553-70ba45293970)
 
-##Result display
+## Result display
 ![image](https://github.com/WuZihao12/Typora-theme-auto-numbering/assets/76829676/61039d0c-44f2-4424-adb5-f007b3d0356b)
 
 
